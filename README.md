@@ -36,7 +36,7 @@
 ### 📈 GitHub Stats
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devleomarinho&show_icons=true&theme=default#gh-light-mode-only"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blinodev&show_icons=true&theme=default#gh-light-mode-only"> 
 
 ---
 
