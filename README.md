@@ -41,7 +41,7 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- [LinkedIn](https://www.linkedin.com/in/linoj)  
 - 📧 blinodev@gmail.com  
 
 ---
