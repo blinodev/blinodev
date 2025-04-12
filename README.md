@@ -12,7 +12,6 @@
 - 👨‍👩‍👧 Family is my greatest source of joy and inspiration  
 - 🧠 Passionate about data, technology, and continuous learning  
 - 💻 I specialize in Python and I'm diving deeper into JavaScript and web technologies  
-- 🤖 Currently building "Karvis", my own AI voice assistant project  
 - ⚽ I enjoy reading and sports to keep a healthy mind and body
 
 ---
@@ -26,16 +25,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blinodev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinodev&layout=compact&theme=tokyonight" alt="Top langs" />
-</p>
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devleomarinho&show_icons=true&theme=default#gh-light-mode-only"> 
 
 ---
 
